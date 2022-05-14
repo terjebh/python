@@ -1,5 +1,5 @@
 import numpy as np
-np.random.seed(0)
+np.random.seed()
 mean = 0
 variance = 2
 x = np.random.normal(mean, variance ** 0.5)
